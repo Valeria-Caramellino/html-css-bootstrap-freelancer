@@ -20,3 +20,6 @@
 :focus-visible {
     outline: -webkit-focus-ring-color auto 0px;
 }
+.mia-card:hover{
+    transform: scale(105%);
+}
